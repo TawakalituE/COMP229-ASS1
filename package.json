@@ -1,6 +1,6 @@
 {
   "name": "comp229-ass1",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node server"
@@ -18,7 +18,7 @@
     "popper.js": "^1.16.1"
   },
   "description": "Assignment one",
-  "main": "index.js",
+  "main": "route/index.js",
   "devDependencies": {},
   "repository": {
     "type": "git",
