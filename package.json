@@ -16,5 +16,18 @@
     "jquery": "^3.7.0",
     "morgan": "~1.9.1",
     "popper.js": "^1.16.1"
-  }
+  },
+  "description": "Assignment one",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TawakalituE/COMP229-ASS1.git"
+  },
+  "author": "Tawakalitu Adinlewa Eunice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TawakalituE/COMP229-ASS1/issues"
+  },
+  "homepage": "https://github.com/TawakalituE/COMP229-ASS1#readme"
 }
