@@ -18,7 +18,7 @@
     "popper.js": "^1.16.1"
   },
   "description": "Assignment one",
-  "main": "route/index.js",
+  "main": "server.js",
   "devDependencies": {},
   "repository": {
     "type": "git",
